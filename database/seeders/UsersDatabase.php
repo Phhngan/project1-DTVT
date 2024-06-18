@@ -54,14 +54,14 @@ class UsersDatabase extends Seeder
 
         \App\Models\User::factory()->create(
             [
-                'use_lastName' => 'Nguyễn Thị',
-                'name' => 'Mai',
+                'use_lastName' => 'Nguyễn Ngọc',
+                'name' => 'Nga',
                 'use_gender' => 2,
-                'email' => 'nguyenthia@gmail.com',
+                'email' => 'nguyenngocnga@gmail.com',
                 'use_phone' => '0921345278',
                 'use_province' => 'Hà Nội',
-                'use_district' => 'Hoàng Mai',
-                'use_town' => 'Đại Kim',
+                'use_district' => 'Hai Bà Trưng',
+                'use_town' => 'Minh Khai',
                 'use_detailAddress' => 'Nhà 1 ngõ 1 đường 1',
                 'password' => Hash::make('123456'),
                 'pos_id' => 4,

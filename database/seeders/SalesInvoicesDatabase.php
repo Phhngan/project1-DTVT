@@ -273,7 +273,7 @@ class SalesInvoicesDatabase extends Seeder
                 ],
                 [
                     'use_id' => 6,
-                    'sal_date' => '2023/03/03',
+                    'sal_date' => '2023/05/03',
                     'sal_total' => 840000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
@@ -284,7 +284,7 @@ class SalesInvoicesDatabase extends Seeder
                 ],
                 [
                     'use_id' => 6,
-                    'sal_date' => '2023/04/20',
+                    'sal_date' => '2023/08/20',
                     'sal_total' => 750000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
@@ -295,7 +295,7 @@ class SalesInvoicesDatabase extends Seeder
                 ],
                 [
                     'use_id' => 5,
-                    'sal_date' => '2023/04/20',
+                    'sal_date' => '2023/09/20',
                     'sal_total' => 850000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
@@ -306,7 +306,7 @@ class SalesInvoicesDatabase extends Seeder
                 ],
                 [
                     'use_id' => 7,
-                    'sal_date' => '2023/05/10',
+                    'sal_date' => '2023/12/10',
                     'sal_total' => 1080000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
@@ -317,43 +317,43 @@ class SalesInvoicesDatabase extends Seeder
                 ],
                 [
                     'use_id' => 7,
-                    'sal_date' => '2023/06/10',
+                    'sal_date' => '2023/12/20',
                     'sal_total' => 960000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
                     'sal_district' => 'Hoàn Kiếm',
                     'sal_town' => 'Hàng Trống',
                     'sal_detailAddress' => 'Số 29 Phố Hàng Trống',
-                    
+
                     'sal_status_id' => 4,
                 ],
                 [
                     'use_id' => 7,
-                    'sal_date' => '2023/07/02',
+                    'sal_date' => '2024/01/02',
                     'sal_total' => 865000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
                     'sal_district' => 'Hoàn Kiếm',
                     'sal_town' => 'Hàng Trống',
                     'sal_detailAddress' => 'Số 29 Phố Hàng Trống',
-                    
+
                     'sal_status_id' => 4,
                 ],
                 [
                     'use_id' => 6,
-                    'sal_date' => '2023/07/10',
+                    'sal_date' => '2024/01/12',
                     'sal_total' => 1690000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
                     'sal_district' => 'Hoàn Kiếm',
                     'sal_town' => 'Hàng Trống',
                     'sal_detailAddress' => 'Số 10 Phố Hàng Trống',
-                    
+
                     'sal_status_id' => 4,
                 ],
                 [
                     'use_id' => 6,
-                    'sal_date' => '2023/07/11',
+                    'sal_date' => '2024/02/12',
                     'sal_total' => 700000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
@@ -364,7 +364,7 @@ class SalesInvoicesDatabase extends Seeder
                 ],
                 [
                     'use_id' => 6,
-                    'sal_date' => '2023/07/20',
+                    'sal_date' => '2024/03/20',
                     'sal_total' => 240000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
@@ -375,7 +375,7 @@ class SalesInvoicesDatabase extends Seeder
                 ],
                 [
                     'use_id' => 7,
-                    'sal_date' => '2023/07/24',
+                    'sal_date' => '2024/04/24',
                     'sal_total' => 40000,
                     'ship_id' => 1,
                     'sal_province' => 'Hà Nội',
@@ -384,7 +384,7 @@ class SalesInvoicesDatabase extends Seeder
                     'sal_detailAddress' => 'Số 12 Ngõ 354 Kim Giang',
                     'sal_status_id' => 1,
                 ],
-                
+
             ]
         );
     }
